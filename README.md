@@ -18,14 +18,14 @@ To run the program, user needs to install Python and VS code programs to run the
 
 3. Usage:
    
-1.	To use the program, open VS code and choose the file “holiday.py”  and click on run program button.
-2.	A menu option will appear, then you will type your selection based on the available options
+i.	   To use the program, open VS code and choose the file “holiday.py”  and click on run program button.
+ii.	A menu option will appear, then you will type your selection based on the available options
  
-3.	The system will prompt you to enter the city you wish to travel to, number of nights stay, and number of car rental days required.
+iii.	The system will prompt you to enter the city you wish to travel to, number of nights stay, and number of car rental days required.
  
-4.	After this, press enter to reflect the result and the trip itenary will be reflected with the cost of the trip
+iv.	After this, press enter to reflect the result and the trip itenary will be reflected with the cost of the trip
  
-5.	To recalculate the cost for a different city or different days required, rerun the program again
+v.	To recalculate the cost for a different city or different days required, rerun the program again
 
 5. Credit:
 
